@@ -1,0 +1,147 @@
+[
+    [
+        "/Users/pogilvie/Dropbox.bk/Salesforce/Projects/RecordForm/force-app",
+        {
+            "sourcePath": "/Users/pogilvie/Dropbox.bk/Salesforce/Projects/RecordForm/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1533445685433,
+            "changeTime": 1533445685433,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/pogilvie/Dropbox.bk/Salesforce/Projects/RecordForm/force-app/main",
+        {
+            "sourcePath": "/Users/pogilvie/Dropbox.bk/Salesforce/Projects/RecordForm/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1533445685435,
+            "changeTime": 1533445685435,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Dropbox.bk/Salesforce/Projects/RecordForm/force-app/main/default",
+        {
+            "sourcePath": "/Users/pogilvie/Dropbox.bk/Salesforce/Projects/RecordForm/force-app/main/default",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1533445685438,
+            "changeTime": 1533445685438,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Dropbox.bk/Salesforce/Projects/RecordForm/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/pogilvie/Dropbox.bk/Salesforce/Projects/RecordForm/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1533482801405,
+            "changeTime": 1533482801405,
+            "contentHash": "bd0e60a6a11fa0c29bd62e323c2131edb19a493b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Dropbox.bk/Salesforce/Projects/RecordForm/force-app/main/default/aura/RecordForm",
+        {
+            "sourcePath": "/Users/pogilvie/Dropbox.bk/Salesforce/Projects/RecordForm/force-app/main/default/aura/RecordForm",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1533483753109,
+            "changeTime": 1533483753109,
+            "contentHash": "b7e9a1db17604ee96b5d91d4d2d0f1a826d51748",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Dropbox.bk/Salesforce/Projects/RecordForm/force-app/main/default/aura/RecordForm/RecordForm.cmp",
+        {
+            "sourcePath": "/Users/pogilvie/Dropbox.bk/Salesforce/Projects/RecordForm/force-app/main/default/aura/RecordForm/RecordForm.cmp",
+            "isDirectory": false,
+            "size": 1417,
+            "modifiedTime": 1533482037252,
+            "changeTime": 1533482801405,
+            "contentHash": "8e2873d565d5cf7741a2feb779a0c2de96fbcdc8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Dropbox.bk/Salesforce/Projects/RecordForm/force-app/main/default/aura/RecordForm/RecordForm.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/pogilvie/Dropbox.bk/Salesforce/Projects/RecordForm/force-app/main/default/aura/RecordForm/RecordForm.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 224,
+            "modifiedTime": 1533477299894,
+            "changeTime": 1533477299894,
+            "contentHash": "48f112e6a114e8b952439200025ac9976d4e5de1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Dropbox.bk/Salesforce/Projects/RecordForm",
+        {
+            "sourcePath": "/Users/pogilvie/Dropbox.bk/Salesforce/Projects/RecordForm",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1533445685416,
+            "changeTime": 1533475399191,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pogilvie/Dropbox.bk/Salesforce/Projects/RecordForm/force-app/main/default/aura/RecordForm/RecordForm.design",
+        {
+            "sourcePath": "/Users/pogilvie/Dropbox.bk/Salesforce/Projects/RecordForm/force-app/main/default/aura/RecordForm/RecordForm.design",
+            "isDirectory": false,
+            "size": 573,
+            "modifiedTime": 1533491942335,
+            "changeTime": 1533491942335,
+            "contentHash": "dc082d50ab72e1239994b44d346709c620bf061a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pogilvie/Dropbox.bk/Salesforce/Projects/RecordForm/force-app/main/default/aura/RecordForm/RecordFormController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pogilvie/Dropbox.bk/Salesforce/Projects/RecordForm/force-app/main/default/aura/RecordForm/RecordFormController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 751,
+            "modifiedTime": 1533492736722,
+            "changeTime": 1533492736722,
+            "contentHash": "73a73feb93e6e2a9b7fbbfd25a309b5a5bf4de7d"
+        }
+    ]
+]
