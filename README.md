@@ -1,4 +1,4 @@
-# ReocrdForm
+# RecordForm
 
 A lightning experience component demonstration of <lightning:recordForm>
 
@@ -12,7 +12,7 @@ Code by Augusta Gunn see [LightningHack](https://www.google.comhttp://lightningh
 - push the project: sfdx force:source:push
 - to test: create a contact and drag RecordFrom on the the Contact lightning page
 
-## Description of Files and Directories
+## Description
 A simple component which utilizes <lightning:recordForm>  Design interface allows admins to 
 choose the fields they want on the form
 
