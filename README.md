@@ -2,7 +2,7 @@
 
 A lightning experience component demonstration of <lightning:recordForm>
 
-Code by Augusta Gunn see [LightningHack](https://www.google.comhttp://lightninghack.com/)
+Code by Augusta Gunn see [LightningHack](http://lightninghack.com/)
 
 ## Dev, Build and Test
 - clone the repo:  git clone https://github.com/pogilvie/RecordForm.git
