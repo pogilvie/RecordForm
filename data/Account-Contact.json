@@ -1,0 +1,25 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "ABC Corporation",
+            "Contacts": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef1"
+                        },
+                        "Name": "John Doe",
+                        "Phone": "123-555-1212",
+                        "Email": "john.doe@mail.org",
+                        "LeadSource": "Partner Referral"
+                    }
+                ]
+            }
+        }
+    ]
+}

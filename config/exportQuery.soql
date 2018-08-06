@@ -1,0 +1,5 @@
+select Id, Name,
+	(select Id, Name, AccountId, Phone, Email, LeadSource
+	   from Contacts
+    )
+from Account
